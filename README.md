@@ -67,7 +67,6 @@ SERVER_UPDATE_INTERVAL: 60
 
 ### SSL
 This project does not support SSL certificates, if you wish to set it up, refer to [this page](https://github.com/websockets/ws#external-https-server).
-```
 
 ### Screen Example
 ![image](https://i.imgur.com/IouXwYo.gif)
