@@ -70,3 +70,6 @@ This project does not support SSL certificates, if you wish to set it up, refer 
 
 ### Screen Example
 ![image](https://i.imgur.com/IouXwYo.gif)
+
+### Admin panel 
+![image](https://i.imgur.com/DK1sHzU.gif)
