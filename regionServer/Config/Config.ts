@@ -1,0 +1,10 @@
+export default {
+    REGION: "EU",
+    VERSION: "0.01",
+    API_KEY: "NodeBall-9a5d8e8a6fd255j8z5",
+    MAIN_SERVER_HOST: "127.0.0.1",
+    MAIN_SERVER_PORT: 8090,
+    COUNT_STATS_MIN_PLAYERS: 1,
+    PORT: 8092,
+    UPDATE_INTERVAL: 60
+}
